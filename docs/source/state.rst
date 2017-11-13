@@ -26,7 +26,7 @@ the database and then it is not efficient to  go through arrays to find the
 data we need.
 But if it represented with a map we can use it easier.
 
-.. code-block:: typescript
+.. code-block:: TypeScript
    :linenos:
 
    // with Map
@@ -74,7 +74,7 @@ Normalize your data
 We want to reduce the complexity and keep the state flat. It will be easier to
 maintain and add new functionality.
 
-.. code-block:: typescript
+.. code-block:: TypeScript
    :linenos:
 
    // denormalized

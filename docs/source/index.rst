@@ -10,6 +10,7 @@ A guide to our new developers on how we build and structure our Angular projects
 
 .. toctree::
    :maxdepth: 2
+   :numbered:
    :caption: Contents:
 
    angular
