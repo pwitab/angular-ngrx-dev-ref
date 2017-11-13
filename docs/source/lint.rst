@@ -1,0 +1,4 @@
+.. _lint:
+
+TSLint Settings
+===============
