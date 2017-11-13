@@ -13,6 +13,7 @@ A guide to our new developers on how we build and structure our Angular projects
    :caption: Contents:
 
    angular
+   state
    ngrx
    lint
 
